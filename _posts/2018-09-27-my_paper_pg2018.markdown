@@ -1,0 +1,28 @@
+---
+layout: post
+title: PG2018.
+date: 2018-09-27
+---
+
+
+## 参加[PG2018](http://sweb.cityu.edu.hk/pg2018/) 
+
+### Title: Instant Stippling on 3D Scenes
+
+
+![](https://maleiready.github.io/homepage/publications/ivs3dtotal.jpg)
+
+### Abstract
+
+We presented novel techniques to generate stipples for dynamic 3D objects/scenes in real-time. The key idea is to map a 2D incremental and parallel IVS sequence to the surfaces by carefully eliminating the distortions caused by parameterizations and the change of geometric primitives' areas after perspective projections. The shading effect of the scenes is also considered for the stipple generation. To further enrich the visual effect, we propose two extensions to generate stippling with varying-radius and multi-tone styles, the tone similarity among continuous frames are preserved. Our approach achieves real-time frame rate and the distribution of the generated stipples exhibits good blue-noise properties. The incremental property of the IVS sequence results in good temporal coherence between frames.
+
+
+#### Time: 10/10/2018 13:45
+#### Room: Lecture Theatre 1 (M3017), 3/F, CMC
+
+
+* [Paper](https://maleiready.github.io/homepage/publications/ivs-3d.pdf) 
+* [Video](https://www.dropbox.com/s/ukk5gh8x8xu0fq1/paper1019.mp4)
+* [Online IVS](https://maleiready.github.io/homepage/My_IVS_DEMO.html)
+
+![Online IVS](https://maleiready.github.io/homepage/My_IVS_DEMO.html)
